@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+=======
+Link to server: https://github.com/vallabh13/E-Commerce-Application-Server
+
+Home Page
+
+![Home](https://user-images.githubusercontent.com/104682944/222914965-79d9c3f1-a235-4f80-aedd-18ed4914afd6.png)
+
+![Home1](https://user-images.githubusercontent.com/104682944/222914998-382d38da-88d0-40dc-b0b5-963dd5413d7d.png)
+
+All Products
+
+![All](https://user-images.githubusercontent.com/104682944/222915024-a3b6a61f-9da3-4d43-81fc-7e33e13a198f.png)
+
+Product Details
+
+![Product details](https://user-images.githubusercontent.com/104682944/222915045-4a930e7c-ae17-42de-a1f2-73e499138e88.png)
+
+Cart
+
+![Screenshot (32)](https://user-images.githubusercontent.com/104682944/222915072-a9acf214-b0a2-4d78-b6f6-c65f5cd798e1.png)
+
+
+
+>>>>>>> c7e78c869e7e6cd76c2588ad0ae93039e78fddb4
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

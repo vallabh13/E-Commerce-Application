@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useEffect } from "react";
 import { Route, Routes } from "react-router-dom";
 import Footer from "./components/footer/Footer";
@@ -41,6 +42,30 @@ function App() {
             <Footer />
         </div>
     );
+=======
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+  );
+>>>>>>> c7e78c869e7e6cd76c2588ad0ae93039e78fddb4
 }
 
 export default App;
